@@ -1,0 +1,119 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	line-height: 170px;
+	font-size: 14px;
+	font-family: "Playfair Display";
+	margin-left: 100px;
+
+}
+
+header {
+	height: 170px;
+}
+
+.menu {
+	width: 900px;
+	height: 170px;
+	margin: 0 auto;
+	text-align:center;
+}
+
+ul .menu_lifestyle a {
+	color: #03a9f4;
+	margin: 0;
+}
+
+main {
+	width: 900px;
+	margin: auto auto;
+}
+
+#text {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 14px;
+	color: rgb(180, 173, 158);
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: "Playfair Display";
+	color: rgb(98, 98, 98);
+}
+
+p {
+	font-size: 14px;
+  	font-family: "Playfair Display";
+ 	color: rgb(98, 98, 98);
+}
+
+.sect_1 {
+	width: 420px;
+	float: left;
+	margin-top:25px;
+}
+.sect_2 {
+	width: 420px;
+	float: right;
+	margin-top:25px;
+}
+
+.sect_3 {
+	width: 420px;
+	float: left;
+	margin-top: 130px;
+}
+
+.sect_4 {
+	width: 420px;
+	float: right;
+	margin-top: 130px;
+}
+
+.sect_5 {
+	width: 420px;
+	float: left;
+	margin-top: 135px;
+}
+
+.sect_6 {
+	width: 420px;
+	float: right;
+	margin-top: 135px;
+}
+
+footer {
+	width: 900px;
+	margin: auto auto;
+	text-align: center;
+}
+
+.load_more {
+	margin-top: 55px;
+	margin-bottom: 70px;
+	padding: 21px 33px;
+	font-size: 20px;
+	font-family: "Playfair Display";
+  	color: rgb(98, 98, 98);
+  	border-width: 1px;
+  	border-color: rgb(98, 98, 98);
+ 	border-style: solid;
+ 	background-color: transparent;
+}
