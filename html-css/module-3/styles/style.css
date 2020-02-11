@@ -44,6 +44,7 @@
 .main__sections {
 	font-size: 0;
 	width: 900px;
+	padding-bottom: 70px;
 }
 
 .text__title {
@@ -95,6 +96,6 @@
  	border-style: solid;
  	background-color: transparent;
  	width: 166px;
- 	margin: 53px auto 70px;
+ 	margin: 53px auto 0;
 }
 
