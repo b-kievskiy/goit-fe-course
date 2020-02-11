@@ -110,7 +110,8 @@ h2::after {
 }
   
 .section-page {
-    margin-bottom: 100px;
+	padding-bottom: 100px;
+    /*margin-bottom: 100px;*/
 }
 
 .products-list-item:nth-child(4n) {
