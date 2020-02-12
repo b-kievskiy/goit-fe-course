@@ -29,6 +29,7 @@
 }
 
 .list__item a {
+	display: block;
 	text-transform: uppercase;
 	text-decoration: none;
 	font-size: 14px;
@@ -37,8 +38,7 @@
 }
 
 .menu {
-	width: 578px;
-	margin: 0 auto;
+	text-align: center;
 }
 
 .main__sections {
@@ -73,7 +73,7 @@
 	display: inline-block;
 }
 
-.section__card:first-child {
+.marg {
 	margin-right: 60px;
 }
 
@@ -87,11 +87,11 @@
 
 .load_more {
 	display: block;
-	padding: 21px 33px;
+	padding: 21px 0;
 	font-size: 20px;
 	font-family: "Playfair Display";
   	color: rgb(98, 98, 98);
-  	border-width: 1px;
+  	border-width: 2px;
   	border-color: rgb(98, 98, 98);
  	border-style: solid;
  	background-color: transparent;
@@ -99,3 +99,7 @@
  	margin: 53px auto 0;
 }
 
+.load_more:hover {
+	border-color: #03a9f4;
+	color: #03a9f4;
+}
