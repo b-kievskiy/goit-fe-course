@@ -119,19 +119,16 @@ h3 {
 
 .item-svg2__btn {
 	border: 0;
-	width: 18px;
 	background: transparent;
 }
 
 .item-svg2 {
-	width: 18px;
-	height: 18px;
   	list-style: none;
 }
 
 .sprite-2 {
-	width: 32px;
-	height: 32px;
+	width: 18px;
+	height: 18px;
 }
 
 .container-bg {
