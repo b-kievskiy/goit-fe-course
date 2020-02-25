@@ -309,6 +309,10 @@ h3 {
 	background-color: #f38181;
 }
 
+.overlay-item:hover .svg-icons {
+	fill: #fff;
+}
+
 .svg-icons {
 	display: block;
 	width: 30px;
