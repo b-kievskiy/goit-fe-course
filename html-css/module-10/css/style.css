@@ -300,17 +300,20 @@ h3 {
 .overlay-item a {
 	width: 56px;
   	height: 56px;
-  	display: block;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
 }
 
 .overlay-item:hover {
-	background-color: #95e1d3;
+	background-color: #f38181;
 }
 
 .svg-icons {
 	display: block;
-	width: 100%;
-	width: 100%;
+	width: 30px;
+	height: 30px;
+	fill:#f38181;
 }
 .crewman-h3 {
 	text-align: center;
