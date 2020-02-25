@@ -129,6 +129,11 @@ h3 {
   	list-style: none;
 }
 
+.sprite-2 {
+	width: 32px;
+	height: 32px;
+}
+
 .container-bg {
 	padding-bottom: 230px;
 }
