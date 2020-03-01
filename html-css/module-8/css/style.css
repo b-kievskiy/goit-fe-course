@@ -290,13 +290,13 @@ p {
 	}
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 960px) {
 	.wrapper {
 		background-image: url(../images/bg-desktop.jpg);
 	}
 
 	.container {
-		width: 939px;
+		width: 940px;
 	}
 
 	.section-team {
